@@ -1,0 +1,46 @@
+[
+    {
+        "name" : "不归徒",
+        "id" : "1441639267",
+        "password" : "111111",
+        "time" : "1572310163433",
+        "musicList": [
+             "5db82482dab43228f040df5a",
+             "5db82482dab43228f040df5b",
+             "5db82482dab43228f040df5c",
+             "5db82482dab43228f040df5d",
+             "5db82482dab43228f040df5e",
+             "5db82482dab43228f040df5f",
+             "5db82482dab43228f040df60",
+             "5db82482dab43228f040df61",
+             "5db82482dab43228f040df62",
+             "5db82482dab43228f040df63",
+             "5db82482dab43228f040df64",
+             "5db82482dab43228f040df65",
+             "5db82482dab43228f040df66"
+        ],
+        "Administrator" : true
+    },
+    {
+        "name": "不归徒",
+        "id": 111111,
+        "password": "111111",
+        "time" : "1572310163427",
+        "musicList": [
+            "5db82482dab43228f040df5a",
+            "5db82482dab43228f040df5b",
+            "5db82482dab43228f040df5c",
+            "5db82482dab43228f040df5d",
+            "5db82482dab43228f040df5e",
+            "5db82482dab43228f040df5f",
+            "5db82482dab43228f040df60",
+            "5db82482dab43228f040df61",
+            "5db82482dab43228f040df62",
+            "5db82482dab43228f040df63",
+            "5db82482dab43228f040df64",
+            "5db82482dab43228f040df65",
+            "5db82482dab43228f040df66"
+        ],
+        "Administrator": false
+    }
+]
